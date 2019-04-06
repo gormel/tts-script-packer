@@ -1,0 +1,18 @@
+{
+  "name": "lua-extractor",
+  "version": "1.0.0",
+  "description": "LUA EXTRACTOR!!!",
+  "main": "index.js",
+  "scripts": {
+    "main": "ts-node src/main.ts",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.13.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.2"
+  }
+}
